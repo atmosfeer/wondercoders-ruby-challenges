@@ -3,9 +3,8 @@
 Change to the working directory of the assignment, run the test and open it up in Sublime
 
 ```bash
-  cd ~/code/wondercoders-ruby-challenges/03-String-Additions
+  cd /wondercoders-ruby-challenges/03-String-Additions
   rake
-  stt
 ```
 
 Until now, you could be sure that the inputs in your methods were of the right type.

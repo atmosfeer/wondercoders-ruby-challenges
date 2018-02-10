@@ -3,9 +3,8 @@
 Change to the working directory of the assignment, run the test and open it up in Sublime
 
 ```bash
-  cd ~/code/wondercoders-ruby-challenges/02-Whats-Your-Name
+  cd /wondercoders-ruby-challenges/02-Whats-Your-Name
   rake
-  stt
 ```
 
 - Validate one more time your understanding of methods and variables.

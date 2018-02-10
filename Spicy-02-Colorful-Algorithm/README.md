@@ -3,9 +3,8 @@
 Change to the working directory of the assignment, run the test and open it up in Sublime:
 
 ```bash
-  cd ~/code/wondercoders-ruby-challenges/Spicy-02-Colorful-Algorithm
+  cd /wondercoders-ruby-challenges/Spicy-02-Colorful-Algorithm
   rake
-  stt
 ```
 
 Congratulations on reaching the final optional assignment of day 1. This one is a bit more tricky and should keep you busy longer. It can be seen as a [Code Kata](https://en.wikipedia.org/wiki/Kata_%28programming%29), an exercise for programmers to train themselves.

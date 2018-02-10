@@ -3,9 +3,8 @@
 Change to the working directory of the assignment, run the test and open it up in Sublime
 
 ```bash
-  cd ~/code/wondercoders-ruby-challenges/04-Awesomo-4000
+  cd /wondercoders-ruby-challenges/04-Awesomo-4000
   rake
-  stt
 ```
 
 - A deeper look into methods and how you can use them inside other methods.

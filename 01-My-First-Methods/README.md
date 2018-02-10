@@ -3,9 +3,8 @@
 Change to the working directory of the assignment, run the test and open it up in Sublime
 
 ```bash
-  cd ~/code/wondercoders-ruby-challenges/01-My-First-Methods
+  cd /wondercoders-ruby-challenges/01-My-First-Methods
   rake
-  stt
 ```
 
 - Learn to look for the right method on the ruby doc.

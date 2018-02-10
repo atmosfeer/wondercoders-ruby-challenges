@@ -3,9 +3,8 @@ Original idea: [Complementary DNA on Codewars](http://www.codewars.com/kata/comp
 Change to the working directory of the assignment, run the test and open it up in Sublime:
 
 ```bash
-  cd ~/code/wondercoders-ruby-challenges/Spicy-01-Complementary-DNA
+  cd /wondercoders-ruby-challenges/Spicy-01-Complementary-DNA
   rake
-  stt
 ```
 
 ## Instructions:

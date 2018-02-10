@@ -3,9 +3,8 @@
 Change to the working directory of the assignment, run the test and open it up in Sublime
 
 ```bash
-  cd ~/code/wondercoders-ruby-challenges/05-Guess-Number
+  cd /wondercoders-ruby-challenges/05-Guess-Number
   rake
-  stt
 ```
 
 This exercise is a synthesis to validate the core concepts you have seen so far, common to most programming languages:

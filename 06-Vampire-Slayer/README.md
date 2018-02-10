@@ -3,9 +3,8 @@
 Change to the working directory of the assignment, run the test and open it up in Sublime
 
 ```bash
-  cd ~/code/wondercoders-ruby-challenges/06-Vampire-Slayer
+  cd /wondercoders-ruby-challenges/06-Vampire-Slayer
   rake
-  stt
 ```
 
 Congratulations, you're now a vampire slayer.
