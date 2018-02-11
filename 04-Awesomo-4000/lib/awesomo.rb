@@ -28,26 +28,22 @@ PUNCHLINE = [
 ]
 
 def plot_generator
-  [pick_actor, pick_setting, pick_closed_one, pick_punchline].join(" ")
+  # Your code here
 end
 
 def pick_actor
-  ACTOR.sample
+  # Your code here
 end
 
 def pick_setting
-  SETTING.sample
+  # Your code here
 end
 
 def pick_closed_one
-  CLOSED.sample
+  # Your code here
 end
 
 def pick_punchline
-  PUNCHLINE.sample
+  # Your code here
 end
-
-puts plot_generator
-# system ("say #{plot_generator}")
-
 
